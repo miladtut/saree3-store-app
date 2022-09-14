@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>860107104357-o884mkj36960g2i0vgtu9stie47s3knr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.860107104357-o884mkj36960g2i0vgtu9stie47s3knr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>860107104357-j8he9edb4qhstv6cqfrku9uotrola43k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA09GZxvKHVFOK7trWfBW3OAh5EL86dQsk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>860107104357</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.saree3.saree3Store</string>
+	<key>PROJECT_ID</key>
+	<string>fast-af088</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fast-af088.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:860107104357:ios:fed23003824ad45888e68c</string>
+</dict>
+</plist>
