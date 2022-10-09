@@ -128,6 +128,94 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860107104357:android:10ee6d78ee79509488e68c",
+        "android_client_info": {
+          "package_name": "com.saree3_store_app.saree3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860107104357-a20cu5cfp6o6usaj5opn08r64mn53h8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saree3_store_app.saree3",
+            "certificate_hash": "d8aa76914181dcbb02b32ac9693bbba454622bbe"
+          }
+        },
+        {
+          "client_id": "860107104357-9bul60go4erne1b3umt1drcc4akhsjkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8q3ORkqNCfyxTJR-oYVjgMz8Woam3vcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860107104357-9bul60go4erne1b3umt1drcc4akhsjkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860107104357-e59mjo26f70qv0r9r1voq9hhrl7dabua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fastDelivery.fast"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860107104357:android:b6cab35bfc8fb5f588e68c",
+        "android_client_info": {
+          "package_name": "com.saree3_user_app.saree3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860107104357-jpnos5lrcmbibh52af851crgkc569667.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saree3_user_app.saree3",
+            "certificate_hash": "d8aa76914181dcbb02b32ac9693bbba454622bbe"
+          }
+        },
+        {
+          "client_id": "860107104357-9bul60go4erne1b3umt1drcc4akhsjkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8q3ORkqNCfyxTJR-oYVjgMz8Woam3vcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860107104357-9bul60go4erne1b3umt1drcc4akhsjkq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860107104357-e59mjo26f70qv0r9r1voq9hhrl7dabua.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fastDelivery.fast"
+              }
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
