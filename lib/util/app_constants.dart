@@ -5,7 +5,7 @@ class AppConstants {
   static const String APP_NAME = 'Saree3 Store';
   static const double APP_VERSION = 1.4;
 
-  static const String BASE_URL = 'http://185.194.217.48';
+  static const String BASE_URL = 'http://saree3.starslive.club';
   static const String CONFIG_URI = '/api/v1/config';
   static const String LOGIN_URI = '/api/v1/auth/vendor/login';
   static const String FORGET_PASSWORD_URI = '/api/v1/auth/vendor/forgot-password';
